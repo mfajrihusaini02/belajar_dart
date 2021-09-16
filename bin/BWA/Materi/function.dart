@@ -1,5 +1,3 @@
-import '../challenge_BWA/challenge2.dart';
-
 void main(List<String> args) {
   String? nama = 'Fajri';
   perkenalan(nama);
